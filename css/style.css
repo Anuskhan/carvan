@@ -1,0 +1,17 @@
+.icon ul li{list-style:none; float:left;
+	}
+
+.icon ul li a{ margin-left:300px; margin-top:1px;  }
+.icon ul li a:hover{border-radius:50px;} 
+.navli{margin-left:200px; padding-top:2px; }
+.navli a:hover{border-radius:5px;}
+
+ .admin{background:#666;}
+.contant{width:68%; height:80%; float:left; overflow:hidden; margin-left:20px; border:2px solid #333; padding-left:5px; 
+background-image:url(../images/6909249-black-hd-background.jpg); color:#FFF;  }
+.cont{ width:28%; float:right; overflow:hidden; margin-left:10px; border:2px solid #333; padding-left:1px; height:80%;}
+background-image:url(../images/6909249-black-hd-background.jpg); color:#CCC;}
+.footer{margin-left:30%;}
+.hh{font-size:36px;}
+.info{ background-image:images/bg.jpg; color:#CCC; font-size:24px;}
+.para{ font-size:24px; }
